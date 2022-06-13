@@ -9,4 +9,6 @@
 /* Put a border around your image */
 
 /* Change the font-family of your list */
-body {background-color:#ffff80; }
+body {background-color:#ffff80;}
+header {color:#1a75ff}
+footer{color:#ff3385;}
